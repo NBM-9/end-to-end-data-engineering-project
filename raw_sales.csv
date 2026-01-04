@@ -1,0 +1,7 @@
+order_id,customer,region,product,quantity,price,order_date
+1,Alice,East,Laptop,1,800,2024-01-10
+2,Bob,West,Phone,2,500,2024-01-12
+3,Charlie,East,Tablet,0,300,2024-02-05
+4,David,South,Chair,3,150,2024-02-20
+5,Eva,North,Desk,1,-250,2024-03-15
+6,Alice,East,Laptop,2,800,2024-03-18
